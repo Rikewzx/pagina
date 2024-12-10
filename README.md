@@ -1,0 +1,2 @@
+# sites
+ "Este é meu primeiro projeto em HTML e CSS, uma página de links simples, mas funcional. A página foi projetada para ser limpa e direta, com links centralizados que direcionam para redes sociais e plataformas de venda de pequenas lojas de comida, como docerias e açaíterias. O objetivo deste projeto foi aprender a estrutura básica do HTML e a estilização com CSS, criando uma interface amigável e intuitiva para o usuário
